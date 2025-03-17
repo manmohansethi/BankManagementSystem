@@ -33,7 +33,7 @@ Before running the application, ensure you have the following installed:
 1.  **Clone the Repository:**
 
     ```bash
-    git clone [https://github.com/YourUsername/BankManagementSystem.git](https://github.com/YourUsername/BankManagementSystem.git)
+    git clone [https://github.com/manmohansethi/BankManagementSystem.git](https://github.com/YourUsername/BankManagementSystem.git)
     ```
 
 2.  **Database Setup:**
